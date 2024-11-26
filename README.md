@@ -87,4 +87,4 @@ A dynamic Rock-Paper-Scissors game built using Java, complete with a graphical u
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/RockPaperScissorsGame.git
+   git clone https://github.com/shirokohaku11/proyek_uas.git
